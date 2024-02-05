@@ -1,0 +1,24 @@
+h1 {
+  font-size: 45px;
+  color: rgb(138, 31, 238);
+  margin-bottom: 80px;
+
+}
+
+p {
+    font-size: 25px;
+  color: rgb(23, 160, 18);
+  margin-bottom: 0px;
+
+}
+a {
+    font-size: 35px;
+  color: rgb(20, 150, 122);
+  padding: 60px;
+  margin-bottom: 60px;
+
+}
+.output {
+    font-size: 50px;
+  color: rgb(245, 35, 35);
+};
